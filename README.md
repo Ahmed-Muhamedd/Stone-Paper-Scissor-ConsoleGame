@@ -30,6 +30,3 @@ This is a simple console-based simulation of the classic **Stone Paper Scissors*
 - Language: C++
 - Platform: Console Application
 
----
-
-Enjoy the game and feel free to fork or contribute!
